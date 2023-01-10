@@ -9,7 +9,6 @@ spec:
   - name: http
     port: 4997
     targetPort: 4998
-  type: LoadBalancer
   selector:
     app: airwavetech-helloworld
     
