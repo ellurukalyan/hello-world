@@ -9,4 +9,3 @@ spec:
   - name: http  
     port: 5000
     targetPort: 4998
-  type: LoadBalancer
