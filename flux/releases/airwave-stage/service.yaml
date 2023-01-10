@@ -8,5 +8,5 @@ spec:
     $patch: delete
   - name: http  
     port: 5000
-    targetPort: 4999
+    targetPort: 4998
   type: LoadBalancer
